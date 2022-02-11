@@ -9,7 +9,7 @@ You are allowed to choose between two different options:
 2. List the name of the modules by separating them with a space.
 3. Modify the $dependency variable by adding the artifactId of the dependency you want to search inside the modules instead.
 
-[![Screenshot1.png](https://i.postimg.cc/25wMNvFk/Screenshot1.png)](https://postimg.cc/HJrBQrhR)
+[![Screenshot1.png](https://i.postimg.cc/kgn5d0kW/Screenshot1.png)](https://postimg.cc/ykbKmb6N)
 
 Here is a screenshot of how the shell works.
 
